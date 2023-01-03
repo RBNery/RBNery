@@ -5,5 +5,3 @@
 Repositories
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RBNery&repo=LIBFT)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RBNery&repo=printf)
